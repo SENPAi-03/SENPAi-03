@@ -27,7 +27,7 @@ That's Amr, A developer who loves programming and learning new things
 [![Current](https://github-readme-stats.vercel.app/api/pin/?username=SENPAi-03&repo=SENPAi-03&bg_color=141321&text_color=fff)](https://github.com/SENPAi-03/SENPAi-03)
 
 ## Stats
-![Status](https://github-readme-stats.vercel.app/api?username=SENPAi-03&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SENPAi-03&bg_color=141321&text_color=fff&langs_count=3)](https://github.com/SENPAi-03)
+![Status](https://github-readme-stats.vercel.app/api?username=SENPAi-03&include_all_commits=true&rank_icon=github&icon_color=fe428e&custom_title=Status&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SENPAi-03&layout=compact&bg_color=141321&custom_title=Language&text_color=fff&langs_count=3)](https://github.com/SENPAi-03)
 </div>

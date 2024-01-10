@@ -21,7 +21,7 @@ That's Amr, A developer who loves programming and learning new things
 
 [![Sponsors](https://img.shields.io/github/sponsors/SENPAi-03?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=%236272A4&labelColor=%2344475A&color=%23282A36)](https://github.com/sponsors/SENPAi-03)
 
-[![Discord](https://lanyard.cnrad.dev/api/710560029077405718)](https://discord.com/users/710560029077405718)
+[![Discord](https://lanyard.cnrad.dev/api/710560029077405718?theme=dark&bg=141321&borderRadius=6px&idleMessage=Hello&comma;+World&excl;)](https://discord.com/users/710560029077405718)
 
 ## Current Project
 [![Current](https://github-readme-stats.vercel.app/api/pin/?username=SENPAi-03&repo=SENPAi-03&bg_color=141321&text_color=fff)](https://github.com/SENPAi-03/SENPAi-03)
